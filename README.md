@@ -39,7 +39,7 @@ JavaScript (Vanilla JS)
 # 🌐 Live Project
 🌐 Live Project: 
 
-👉 GitHub Repository:https:
+👉 GitHub Repository:https:https://github.com/rajp61739-cmyk/SCT_WD_2
 
 # 📂 Project Structure
 SCT_WD_2
@@ -75,7 +75,7 @@ WEB DEVELOPMENT INTERN - SKILLCRAFT TECHNOLOGY
 
 📧 Email:
 
-🔗 GitHub:https:
+🔗 GitHub:https:https://github.com/rajp61739-cmyk/SCT_WD_2
 
 🌐 Live Project: 
 
