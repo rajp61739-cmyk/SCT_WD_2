@@ -37,7 +37,7 @@ CSS3
 JavaScript (Vanilla JS)
 
 # 🌐 Live Project
-🌐 Live Project: 
+🌐 Live Project: https://rajp61739-cmyk.github.io/SCT_WD_2/
 
 👉 GitHub Repository:https:https://github.com/rajp61739-cmyk/SCT_WD_2
 
@@ -54,13 +54,6 @@ SCT_WD_2
 
 ├── README.md
 
-       |
-       
-        __
-        
-         ├── stopwatchpage1.png
-         
-         ├── stopwatchpage2.png
 # ▶ How to Run the Project
 Download or Clone the Repository
 
@@ -77,7 +70,7 @@ WEB DEVELOPMENT INTERN - SKILLCRAFT TECHNOLOGY
 
 🔗 GitHub:https:https://github.com/rajp61739-cmyk/SCT_WD_2
 
-🌐 Live Project: 
+🌐 Live Project: https://rajp61739-cmyk.github.io/SCT_WD_2/
 
 💼 LinkedIn: https://www.linkedin.com/in/prince-raj-8b480b286?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
