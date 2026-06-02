@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Professional Stopwatch</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="glow1"></div>
+<div class="glow2"></div>
+
+<div class="container">
+
+    <div class="heading">
+        <h2>⏱ PROFESSIONAL STOPWATCH</h2>
+    </div>
+
+    <div class="timer-box">
+
+        <div class="time" id="display">
+            00:00:00
+        </div>
+
+        <div class="labels">
+            <span>Hours</span>
+            <span>Minutes</span>
+            <span>Seconds</span>
+        </div>
+
+    </div>
+
+    <div class="buttons">
+
+        <button class="start" onclick="startWatch()">
+            ▶ Start
+        </button>
+
+        <button class="pause" onclick="pauseWatch()">
+            ⏸ Pause
+        </button>
+
+        <button class="reset" onclick="resetWatch()">
+            ⟳ Reset
+        </button>
+
+        <button class="lap" onclick="addLap()">
+            ⏱ Lap
+        </button>
+
+    </div>
+
+    <div class="note-box">
+
+        <input
+            type="text"
+            id="lapNote"
+            placeholder="Write lap note here..."
+        >
+
+    </div>
+
+    <div class="lap-section">
+
+        <div class="lap-title">
+            📋 LAP RECORDS
+        </div>
+
+        <div class="laps" id="laps">
+
+            <div class="empty">
+                No laps recorded
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
