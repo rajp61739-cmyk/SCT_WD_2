@@ -73,11 +73,11 @@ Prince Raj
 
 WEB DEVELOPMENT INTERN - SKILLCRAFT TECHNOLOGY
 
-📧 Email:
+📧 Email:rajp61739@gmail.com
 
 🔗 GitHub:https:https://github.com/rajp61739-cmyk/SCT_WD_2
 
 🌐 Live Project: 
 
-💼 LinkedIn: 
+💼 LinkedIn: https://www.linkedin.com/in/prince-raj-8b480b286?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
